@@ -1,0 +1,23 @@
+# 00 - Cpp Hello World
+
+## Compilador
+g++ (Rev1, Built by MSYS2 project) 14.2.0
+
+## Versión de C++
+C++17
+
+## Descripción
+Programa simple que imprime "Hello, World!" en consola utilizando la biblioteca iostream.
+
+## Compilación
+g++ -std=c++17 hello.cpp -o hello
+
+## Ejecución
+hello.exe
+
+## Redirección de salida
+hello.exe > output.txt
+
+## Resultado
+El archivo output.txt contiene:
+Hello, World!
